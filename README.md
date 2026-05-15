@@ -15,7 +15,7 @@ This Power BI dashboard analyzes Blinkit sales data and provides insights into o
 - Interactive Filters
 
 ## Dashboard Preview
-(Add Screenshot Here)
+
 
 ## Key Insights
 - Tier 3 outlets generated highest sales
