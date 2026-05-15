@@ -4,7 +4,7 @@
 This Power BI dashboard analyzes Blinkit sales data and provides insights into outlet performance, item categories, and customer ratings.
 
 ## Tools Used
-- Power BI
+- Power BI## Dashboard Preview
 - Excel
 - DAX
 
@@ -15,6 +15,9 @@ This Power BI dashboard analyzes Blinkit sales data and provides insights into o
 - Interactive Filters
 
 ## Dashboard Preview
+
+<img width="906" height="499" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/30193ab2-783c-495f-8696-260e34e66be7" />
+
 
 
 ## Key Insights
